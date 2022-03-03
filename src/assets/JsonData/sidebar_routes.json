@@ -1,0 +1,47 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Attendance",
+        "route": "/attendance",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Testing Project",
+        "route": "/testingproject",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Daily Update",
+        "route": "/dailyupdate",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Ticket",
+        "route": "/ticket",
+        "icon": "bx bx-bar-chart-alt"
+    },
+    {
+        "display_name": "categories",
+        "route": "/categories",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "discount",
+        "route": "/discount",
+        "icon": "bx bx-gift"
+    },
+    {
+        "display_name": "inventory",
+        "route": "/inventory",
+        "icon": "bx bx-store-alt"
+    },
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]

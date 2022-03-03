@@ -1,0 +1,29 @@
+.loginContainer{
+    padding: 30px;
+    
+}
+
+.loginContainer input{
+    
+    padding:10px;
+    border-radius: 10px;
+    margin:5px;
+}
+.loginContainer input:focus{
+    padding:10px;
+    outline:none;
+    border:none;
+}
+.login{
+    padding: 30px;
+}
+
+.LoginBtn{
+    display:flex;
+    justify-content:center;
+    margin-left:70px;
+    padding:10px;
+    margin-top:10px;
+    border:none;
+    border-radius:5px;  
+}
